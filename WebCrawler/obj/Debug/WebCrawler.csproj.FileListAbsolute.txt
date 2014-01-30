@@ -1,0 +1,12 @@
+c:\users\hamada\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe.config
+c:\users\hamada\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csprojResolveAssemblyReference.cache
+c:\users\hamada\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.Form1.resources
+c:\users\hamada\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.Properties.Resources.resources
+c:\users\hamada\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.GenerateResource.Cache
+c:\users\hamada\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe
+c:\users\hamada\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\bin\Debug\WebCrawler.pdb
+c:\users\hamada\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.dll
+c:\users\hamada\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.pdb
+c:\users\hamada\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.xml
+c:\users\hamada\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.exe
+c:\users\hamada\documents\visual studio 2013\Projects\WebCrawler\WebCrawler\obj\Debug\WebCrawler.pdb
